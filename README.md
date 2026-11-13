@@ -5,7 +5,7 @@ This repository contains release instructions and public release assets. Applica
 
 ## Downloads
 
-The first APK release has not been published yet. The following links will work once a stable release with both assets is published:
+Download the latest published Android release using these stable links:
 
 - APK: https://github.com/bibak-beauty/marketplace-releases/releases/latest/download/toptalla.apk
 - Version metadata: https://github.com/bibak-beauty/marketplace-releases/releases/latest/download/latest.json
